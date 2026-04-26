@@ -27,24 +27,43 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-name: Sai Srikar Mavidi
-role: Backend Developer & Data Analyst
-university: Mahindra University, Hyderabad (B.Tech CS)
-current_focus: AI-Assisted Development & Cloud Architecture
+### 🎯 Who I Am
 
-strengths:
-  - Designing normalized relational schemas → exposing via RESTful APIs
-  - Cleaning raw data (JSON/CSV/SQL) → building interactive Power BI dashboards
-  - Fraud detection pipelines across 300K+ payment transactions
-  - Precision prompting to build industry-level applications with AI tools
+🎓 **B.Tech in Computer Science** — Mahindra University, Hyderabad
 
-philosophy: "If you can't measure it, you can't improve it."
-```
+🔧 I don't just write APIs — I design **normalized schemas**, build **FastAPI backends**, and make sure every endpoint serves a real business question.
 
-<br clear="right"/>
+📊 I don't make charts for decoration — I clean **300K+ payment records** and build **Power BI dashboards** that flag fraud, track KPIs, and drive actual decisions.
+
+🤖 I use **AI tools with precision prompting** to build industry-level applications — not shortcuts, but intentional, detail-obsessed engineering.
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ At a Glance
+
+| | |
+|---|---|
+| 💼 **Role** | Backend Dev & Data Analyst |
+| 🏗️ **Backend** | FastAPI · REST APIs · SQL Server |
+| 📊 **Analytics** | Power BI · Pandas · Python |
+| ☁️ **Cloud** | Azure · AWS (learning) |
+| 🤖 **Current Focus** | AI-Assisted Development |
+| 💡 **Philosophy** | *"If you can't measure it, you can't improve it."* |
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -306,6 +325,7 @@ Analyzed **300,000+ digital payment transactions** for anomaly detection and fra
 
 </div>
 
+> 💡 *To enable the snake animation, add a GitHub Actions workflow — [setup guide](https://github.com/Platane/snk)*
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
