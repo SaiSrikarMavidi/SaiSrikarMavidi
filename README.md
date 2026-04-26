@@ -27,43 +27,21 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-### 🎯 Who I Am
+&nbsp; 🎓 &nbsp; **B.Tech in Computer Science** — Mahindra University, Hyderabad
 
-🎓 **B.Tech in Computer Science** — Mahindra University, Hyderabad
+&nbsp; 🔧 &nbsp; I design **normalized schemas**, build **FastAPI backends**, and make sure every endpoint serves a real business question
 
-🔧 I don't just write APIs — I design **normalized schemas**, build **FastAPI backends**, and make sure every endpoint serves a real business question.
+&nbsp; 📊 &nbsp; I clean **300K+ payment records** and build **Power BI dashboards** that flag fraud, track KPIs, and drive actual decisions
 
-📊 I don't make charts for decoration — I clean **300K+ payment records** and build **Power BI dashboards** that flag fraud, track KPIs, and drive actual decisions.
+&nbsp; 🤖 &nbsp; I use **AI tools with precision prompting** to build industry-level applications — intentional, detail-obsessed engineering
 
-🤖 I use **AI tools with precision prompting** to build industry-level applications — not shortcuts, but intentional, detail-obsessed engineering.
+&nbsp; ☁️ &nbsp; Currently exploring **AWS** and pursuing **Microsoft SQL & Azure** certifications
 
-</td>
-<td width="45%" valign="top">
+&nbsp; 💡 &nbsp; *"If you can't measure it, you can't improve it."*
 
-### ⚡ At a Glance
-
-| | |
-|---|---|
-| 💼 **Role** | Backend Dev & Data Analyst |
-| 🏗️ **Backend** | FastAPI · REST APIs · SQL Server |
-| 📊 **Analytics** | Power BI · Pandas · Python |
-| ☁️ **Cloud** | Azure · AWS (learning) |
-| 🤖 **Current Focus** | AI-Assisted Development |
-| 💡 **Philosophy** | *"If you can't measure it, you can't improve it."* |
-
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
-</div>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
