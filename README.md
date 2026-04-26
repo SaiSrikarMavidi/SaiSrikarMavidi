@@ -303,7 +303,6 @@ Analyzed **300,000+ digital payment transactions** for anomaly detection and fra
 
 </div>
 
-> 💡 *To enable the snake animation, add a GitHub Actions workflow — [setup guide](https://github.com/Platane/snk)*
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
