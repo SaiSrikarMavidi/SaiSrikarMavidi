@@ -158,29 +158,6 @@ Analyzed **10,000+ JSON records** across **150+ players** to uncover performance
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Retail Sales & Inventory Intelligence</h3>
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiSrikarMavidi/Retail-Sales-Inventory-Intelligence-Platform.git)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</div>
-
-End-to-end retail analytics system processing **500K+ transactions** with a scalable **star schema** database.
-
-- ✅ Data cleaning, feature engineering & SQL analytics pipeline
-- ✅ REST APIs for real-time data access + Azure deployment
-- ✅ Power BI dashboards for revenue, customer behavior & inventory
-
-> 💡 *Backend + analytics + cloud — from raw CSV to live dashboard.*
-
-</td>
-<td width="50%" valign="top">
-
 <h3 align="center">🔍 Fraud Risk Monitoring Dashboard</h3>
 
 <div align="center">
@@ -201,6 +178,9 @@ Analyzed **300,000+ digital payment transactions** for anomaly detection and fra
 
 > 💡 *300K transactions, hidden fraud — analytics finds the needles.*
 
+</td>
+<td width="50%" valign="top">
+<!-- Empty cell to maintain table structure -->
 </td>
 </tr>
 </table>
