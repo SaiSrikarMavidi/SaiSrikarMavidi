@@ -33,8 +33,6 @@
 
 &nbsp; 🔧 &nbsp; I design **normalized schemas**, build **FastAPI backends**, and make sure every endpoint serves a real business question
 
-&nbsp; 📊 &nbsp; I clean **300K+ payment records** and build **Power BI dashboards** that flag fraud, track KPIs, and drive actual decisions
-
 &nbsp; 🤖 &nbsp; I use **AI tools with precision prompting** to build industry-level applications — intentional, detail-obsessed engineering
 
 &nbsp; ☁️ &nbsp; Currently exploring **AWS** and pursuing **Microsoft SQL & Azure** certifications
